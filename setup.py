@@ -15,8 +15,4 @@ setup(
         "numpy",
         "matplotlib",
     ],
-    tests_require=[
-        "pytest",
-        "pytest-cov",
-    ],
 )
